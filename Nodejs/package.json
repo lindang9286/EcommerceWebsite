@@ -1,0 +1,11 @@
+{
+  "name": "11180874",
+  "version": "1.0.0",
+  "description": "Website bán đồ điện tử ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Linh Dan",
+  "license": "ISC"
+}
